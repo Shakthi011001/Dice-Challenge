@@ -1,2 +1,2 @@
 # Dice-Challenge
-A simple Dice challenge using HTML, Js
+A simple Dice challenge using HTML,CSS and JS
